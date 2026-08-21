@@ -59,7 +59,7 @@ Aspiring Full Stack Developer with strong knowledge in Java, Spring Boot, Hibern
 
 ---
 
-### <img src="https://img.icons8.com/fluency/48/000000/id.png" width="20"/> Connect With Me
+### 🔗 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/praveen-kumar-k-65325a341)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/praveen12-19)
