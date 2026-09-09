@@ -75,3 +75,14 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://praveenkumar-portfolio-alpha.vercel.app/)
 
 ---
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats-g65b.vercel.app/api?username=praveen12-19&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<br/><br/>
+
+<img src="https://github-readme-stats-g65b.vercel.app/api/top-langs/?username=praveen12-19&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
