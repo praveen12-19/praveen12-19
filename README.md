@@ -10,8 +10,16 @@
 </p>
 
 ---
+## 👨‍💻 About Me
 
-Aspiring Full Stack Developer with strong knowledge in Java, Spring Boot, Hibernate, and MySQL. Passionate about problem solving and building end-to-end web applications.
+- 🎓 I'm a passionate learner focused on becoming an industry-ready Full Stack Developer.
+- ☕ Currently focusing on **Java, Spring Boot, and Data Structures & Algorithms**.
+- 🔧 Interested in building **real-world backend systems and REST APIs**.
+- 🌱 Currently improving my skills in **System Design, Microservices, SQL, Git, Docker, and Cloud**.
+- 🧠 I enjoy solving problems and understanding how things work behind the scenes.
+- 🚀 I like turning ideas into practical applications and continuously exploring new technologies.
+- 💡 My goal is to become a strong software developer by learning, building, and solving problems consistently.
+- 🤝 Open to learning, collaborating on projects, and contributing to interesting open-source work..
 
 ---
 
