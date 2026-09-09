@@ -75,12 +75,68 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://praveenkumar-portfolio-alpha.vercel.app/)
 
 ---
-## 📊 GitHub Stats
+<br/>
 
-<p align="center">
-  <img src="https://github-readme-stats-g65b.vercel.app/api?username=praveen12-19&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats-g65b.vercel.app/api/top-langs/?username=praveen12-19&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=praveen12-19&theme=tokyonight&hide_border=true" />
-</p>
+## <a href="#"><img src="https://img.icons8.com/fluency/48/combo-chart.png" width="28" valign="middle"/></a> GitHub Stats
+
+<div align="center">
+
+  <a href="#">
+    <img
+      height="165"
+      src="https://github-readme-stats-g65b.vercel.app/api?username=praveen12-19&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=3600&bg_color=0D1117&title_color=38BDF8&icon_color=0EA5E9&text_color=C9D1D9&border_color=0EA5E9"
+    />
+  </a>
+
+  <a href="#">
+    <img
+      height="165"
+      src="https://github-readme-stats-g65b.vercel.app/api/top-langs/?username=praveen12-19&hide_border=true&include_all_commits=true&count_private=true&layout=compact&cache_seconds=3600&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9&border_color=0EA5E9"
+    />
+  </a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+  <img
+    src="https://streak-stats.demolab.com?user=praveen12-19&hide_border=true&background=0D1117&border=0EA5E9&ring=0EA5E9&fire=38BDF8&currStreakNum=ffffff&sideNums=C9D1D9&currStreakLabel=0EA5E9&sideLabels=C9D1D9&dates=8b949e"
+    alt="GitHub Streak Stats"
+  />
+
+</div>
+
+<br/>
+
+## <a href="#"><img src="https://img.icons8.com/fluency/48/line-chart.png" width="28" valign="middle"/></a> GitHub Activity
+
+<div align="center">
+
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph/?username=praveen12-19&theme=react-dark&bg_color=0D1117&color=0EA5E9&line=0EA5E9&point=38BDF8&area=true&hide_border=true&custom_title=Contribution+Activity"
+    alt="GitHub Activity Graph"
+  />
+
+</div>
+
+<br/><br/>
+
+<div align="center">
+
+  <a href="#">
+    <img
+      src="https://komarev.com/ghpvc/?username=praveen12-19&icon=0&color=0EA5E9"
+      alt="Profile Views"
+    />
+  </a>
+
+</div>
+
+<a href="#">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0C4A6E,50:0EA5E9,100:38BDF8&height=100&section=footer"
+    width="100%"
+  />
+</a>
