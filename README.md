@@ -76,13 +76,10 @@
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=praveen12-19&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" />
-
-<br/><br/>
-
 <img src="https://ghchart.rshah.org/0EA5E9/praveen12-19" alt="GitHub Contribution Graph" width="85%" />
 
 <br/><br/>
+
 <img src="https://hits.sh/github.com/praveen12-19.svg?style=for-the-badge&label=Profile%20Views&color=0EA5E9&labelColor=0C4A6E" alt="Profile Views" />
 
 </div>
